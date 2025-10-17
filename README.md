@@ -4,6 +4,7 @@
 ### Sobre mim
 
 🇺🇸
+
 I'm Daniel Pedro, a data engineer focused on building and automating ETL pipelines, system integrations, and data modeling.
 I work with tools such as Apache Hop and SSIS, and have strong programming and database skills using Python, PostgreSQL, and SQL Server.
 My goal is to transform raw data into organized, scalable, and reliable structures that support analytical and strategic decision-making.
@@ -14,6 +15,7 @@ On my GitHub, you’ll find projects related to data engineering — including E
 
 
 🇧🇷
+
 Sou Daniel Pedro, engenheiro de dados em formação, com experiência prática em construção e automação de pipelines ETL, integração de dados e modelagem em banco de dados.
 Trabalho com ferramentas como Apache Hop e SSIS, além de desenvolver rotinas com Python e SQL em ambientes PostgreSQL e SQL Server.
 
