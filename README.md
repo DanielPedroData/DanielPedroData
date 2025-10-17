@@ -3,18 +3,28 @@
 
 ### Sobre mim
 
-(EN/US)
+🇺🇸
+I'm Daniel Pedro, a data engineer focused on building and automating ETL pipelines, system integrations, and data modeling.
+I work with tools such as Apache Hop and SSIS, and have strong programming and database skills using Python, PostgreSQL, and SQL Server.
+My goal is to transform raw data into organized, scalable, and reliable structures that support analytical and strategic decision-making.
 
-I'm Daniel Pedro, a data analyst with solid expertise in tools like Power BI, Tableau, and Apache Hop, along with proficiency in SQL and Python. My focus is on transforming raw data into valuable insights, utilizing advanced data modeling techniques, data warehouses, and creating dynamic reports. I also work as a BI consultant, helping companies improve the quality and organization of their data for strategic decision-making.
+I also have experience with Power BI and Tableau, allowing me to bridge data engineering with business intelligence and insights delivery.
 
-On my GitHub, you'll find projects related to data integration, ETL pipeline automation, and the development of dashboards that deliver real business value.
+On my GitHub, you’ll find projects related to data engineering — including ETL automation, data warehouse development, and process orchestration with Python and Apache Hop.
 
 
-(pt-BR)
+🇧🇷
+Sou Daniel Pedro, engenheiro de dados em formação, com experiência prática em construção e automação de pipelines ETL, integração de dados e modelagem em banco de dados.
+Trabalho com ferramentas como Apache Hop e SSIS, além de desenvolver rotinas com Python e SQL em ambientes PostgreSQL e SQL Server.
 
-Sou Daniel Pedro, analista de dados. Tenho um sólido conhecimento em ferramentas como Power BI, Tableau e Apache Hop, além de ser proficiente em SQL e Python. Meu foco está em transformar dados brutos em insights valiosos, utilizando técnicas avançadas de modelagem de dados, data warehouses e criação de relatórios dinâmicos. Atuo também como consultor BI, ajudando empresas a melhorar a qualidade e organização dos seus dados para decisões estratégicas.
+Tenho como foco transformar dados brutos em estruturas limpas, organizadas e preparadas para análise.
+Meu interesse está em aprimorar processos de ingestão, tratamento e governança de dados, garantindo qualidade e consistência desde a origem até o data warehouse.
 
-No meu GitHub, você encontrará projetos relacionados a integração de dados, automação de pipelines ETL e desenvolvimento de dashboards que agregam valor real aos negócios.
+Possuo também experiência com Power BI e Tableau, o que me ajuda a compreender o impacto do dado na camada analítica e de negócio.
+Busco uma oportunidade para crescer profissionalmente e contribuir em projetos que unam engenharia, automação e valor estratégico dos dados.
+
+No meu GitHub, compartilho projetos de engenharia de dados com Python, Apache Hop e ETL automatizado, aplicados em cenários reais de integração e transformação de dados.
+
 
 ---
 
