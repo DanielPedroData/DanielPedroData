@@ -1,7 +1,7 @@
 
 # Daniel Pedro Santos
 
-### Sobre mim
+### About me
 
 🇺🇸
 
