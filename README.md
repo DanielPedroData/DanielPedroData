@@ -1,32 +1,21 @@
 
-# Daniel Pedro Santos
+### Daniel Pedro Santos
 
-### About me
+🇺🇸 About me
 
-🇺🇸
+I'm Daniel Pedro, a Data Engineer in training, focused on building and automating ETL pipelines, data integrations, and analytical data models. I work with Python, SQL, and tools such as Apache Hop and SSIS, building reliable and scalable data workflows.
 
-I'm Daniel Pedro, a data engineer focused on building and automating ETL pipelines, system integrations, and data modeling.
-I work with tools such as Apache Hop and SSIS, and have strong programming and database skills using Python, PostgreSQL, and SQL Server.
-My goal is to transform raw data into organized, scalable, and reliable structures that support analytical and strategic decision-making.
+I have experience with PostgreSQL, SQL Server, and cloud-based analytical environments, applying best practices in data ingestion, transformation, and data warehousing. My goal is to transform raw data into clean, structured datasets that support analytical and strategic decision-making.
 
-I also have experience with Power BI and Tableau, allowing me to bridge data engineering with business intelligence and insights delivery.
+On this GitHub, you’ll find hands-on data engineering projects, including ETL automation, data warehouse structures, and pipeline orchestration using Python and Apache Hop.
 
-On my GitHub, you’ll find projects related to data engineering — including ETL automation, data warehouse development, and process orchestration with Python and Apache Hop.
+### 🇧🇷 Sobre mim
 
+Sou Daniel Pedro, Engenheiro de Dados em formação, com atuação prática na construção e automação de pipelines ETL, integração de dados e modelagem analítica. Trabalho com Python, SQL, Apache Hop e SSIS, utilizando bancos como PostgreSQL e SQL Server.
 
-🇧🇷
+Meu foco é transformar dados brutos em estruturas confiáveis, organizadas e escaláveis, aplicando boas práticas de ingestão, transformação e carga de dados em ambientes analíticos e Data Warehouses.
 
-Sou Daniel Pedro, engenheiro de dados em formação, com experiência prática em construção e automação de pipelines ETL, integração de dados e modelagem em banco de dados.
-Trabalho com ferramentas como Apache Hop e SSIS, além de desenvolver rotinas com Python e SQL em ambientes PostgreSQL e SQL Server.
-
-Tenho como foco transformar dados brutos em estruturas limpas, organizadas e preparadas para análise.
-Meu interesse está em aprimorar processos de ingestão, tratamento e governança de dados, garantindo qualidade e consistência desde a origem até o data warehouse.
-
-Possuo também experiência com Power BI e Tableau, o que me ajuda a compreender o impacto do dado na camada analítica e de negócio.
-Busco uma oportunidade para crescer profissionalmente e contribuir em projetos que unam engenharia, automação e valor estratégico dos dados.
-
-No meu GitHub, compartilho projetos de engenharia de dados com Python, Apache Hop e ETL automatizado, aplicados em cenários reais de integração e transformação de dados.
-
+Neste GitHub, compartilho projetos práticos de Engenharia de Dados, com ETLs automatizados, pipelines em Python e orquestração de processos, sempre voltados a cenários reais de dados.
 
 ---
 
