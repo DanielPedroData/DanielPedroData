@@ -1,7 +1,7 @@
 
-### Daniel Pedro Santos
+# Daniel Pedro Santos
 
-🇺🇸 About me
+### 🇺🇸 About me
 
 I'm Daniel Pedro, a Data Engineer in training, focused on building and automating ETL pipelines, data integrations, and analytical data models. I work with Python, SQL, and tools such as Apache Hop and SSIS, building reliable and scalable data workflows.
 
