@@ -19,13 +19,27 @@ Neste GitHub, compartilho projetos práticos de Engenharia de Dados, com ETLs au
 
 ---
 
-### Hard Skills
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Apache Hop](https://img.shields.io/badge/Apache_Hop-231F20?style=for-the-badge&logo=Apache&logoColor=white)](https://hop.apache.org/) [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/) [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com/) 
+### ☁️ Cloud
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### 🗄️ Databases & SQL
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white)](https://en.wikipedia.org/wiki/SQL) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+
+### 🧰 Data & ETL
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+[![Apache Hop](https://img.shields.io/badge/Apache_Hop-231F20?style=for-the-badge&logo=Apache&logoColor=white)](https://hop.apache.org/) 
+
+### BI
+ ![ApacheSuperset](https://camo.githubusercontent.com/fc5fdea9113b7dd36f2b801f7473a3ac9785bae9d2635ad042c933793babf6c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41706163686525323053757065727365742d3230413643393f7374796c653d666f722d7468652d6261646765266c6f676f3d4170616368652b5375706572736574266c6f676f436f6c6f723d464646464646)
+
+### 🐧 OS & Environment
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielpedrosantos/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielPedroSantos)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danipedrodata)
 
 
 
