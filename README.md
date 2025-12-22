@@ -1,51 +1,71 @@
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWMxbXJtNG1qaGU1amZlNDZwaTI2M2JlZXlodG9pYXltaXlwbDFpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gToKbUxWnqdEIKfO1q/giphy.gif"  />
+</div>
 
-# Daniel Pedro Santos
-
-### 🇺🇸 About me
-
-I'm Daniel Pedro, a Data Engineer in training, focused on building and automating ETL pipelines, data integrations, and analytical data models. I work with Python, SQL, and tools such as Apache Hop and SSIS, building reliable and scalable data workflows.
-
-I have experience with PostgreSQL, SQL Server, and cloud-based analytical environments, applying best practices in data ingestion, transformation, and data warehousing. My goal is to transform raw data into clean, structured datasets that support analytical and strategic decision-making.
-
-On this GitHub, you’ll find hands-on data engineering projects, including ETL automation, data warehouse structures, and pipeline orchestration using Python and Apache Hop.
-
-### 🇧🇷 Sobre mim
-
-Sou Daniel Pedro, Engenheiro de Dados em formação, com atuação prática na construção e automação de pipelines ETL, integração de dados e modelagem analítica. Trabalho com Python, SQL, Apache Hop e SSIS, utilizando bancos como PostgreSQL e SQL Server.
-
-Meu foco é transformar dados brutos em estruturas confiáveis, organizadas e escaláveis, aplicando boas práticas de ingestão, transformação e carga de dados em ambientes analíticos e Data Warehouses.
-
-Neste GitHub, compartilho projetos práticos de Engenharia de Dados, com ETLs automatizados, pipelines em Python e orquestração de processos, sempre voltados a cenários reais de dados.
-
----
-
-## 🛠️ Tech Stack
-
-| ☁️ Cloud |
-|---------|
-| ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) |
-
-| 🗄️ Databases & SQL |
-|------------------|
-|![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-
-| 🧰 Data & ETL |
-|--------------|
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white) ![Apache Hop](https://img.shields.io/badge/Apache_Hop-231F20?style=for-the-badge&logo=Apache&logoColor=white) |
-
-| 📊 BI |
-|------|
-| ![Apache Superset](https://img.shields.io/badge/Apache_Superset-20A6C9?style=for-the-badge&logo=apache-superset&logoColor=white) |
-
-| 🐧 OS & Environment |
-|-------------------|
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielpedrosantos/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielPedroSantos) [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/danipedrodata)
+###
+<div align="center">
+  <a href="https://www.linkedin.com/in/danielpedrosantos/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>
+    <a href="https://x.com/danipedrodata" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="25" alt="X / Twitter" />
+  </a>
+  <a href="https://www.youtube.com/@daniPedroSantos" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="25" alt="YouTube" />
+  </a>
+</div>
 
 
- 
+###
+
+<h1 align="center">👋 Hi, I'm Daniel Pedro</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">💼 Data Engineer with hands-on experience building and automating ETL / ELT pipelines, data integrations, and analytical data models that support data-driven decision-making.<br><br>🛠️ I work mainly with Python and SQL, developing reliable, scalable data pipelines using tools such as Apache Hop and SSIS.<br><br>☁️ I have professional experience with Google Cloud Platform (GCP), working with BigQuery and cloud-based analytical environments, as well as PostgreSQL and SQL Server, applying data engineering best practices:<br><br>Data ingestion & quality checks<br><br>Data transformation & modeling<br><br>Data warehousing (dimensional modeling)<br><br>🎯 Career focus: continue growing as a Data Engineer, building robust, scalable data platforms and transforming raw data into trusted, analytics-ready datasets.<br><br>📂 On this GitHub, you’ll find:<br><br>⚙️ Real-world ETL / ELT pipeline projects<br><br>🧱 Data warehouse implementations (fact & dimension modeling)<br><br>🔄 Pipeline orchestration and automation with Python, Apache Hop, and GCP<br><br>📊 Data models designed for BI and analytical use cases</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="40" alt="sqlalchemy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielPedroSantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielPedroSantos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+###
